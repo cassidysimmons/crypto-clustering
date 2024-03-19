@@ -2,7 +2,7 @@
 ## background
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
-##Instructions
+## Instructions
 1. Prepare the Data
     - Use the StandardScaler() module from scikit-learn to normalize the data from the CSV file.
 
